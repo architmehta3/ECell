@@ -576,7 +576,7 @@ fieldset[disabled] .btn-theme {
 
 .header .navbar-toggle {
 	width: 25px;
-	height: 25px;
+	height: 35px;
 	border: none;
 	padding: 0;
 	margin: 35px 0
@@ -646,10 +646,12 @@ fieldset[disabled] .btn-theme {
 
 .header .logo {
 	width: 150px;
-	height: 150px;
+	height: 120px;
 	float: left;
 	max-height: 95px;
-	line-height: 65px
+	line-height: 65px;
+	overflow: hidden;
+	
 }
 
 .header .logo-wrap {
@@ -889,6 +891,17 @@ fieldset[disabled] .btn-theme {
 	-moz-transform: translate3d(0, 50px, 0);
 	transform: translate3d(0, 50px, 0);
 	transition-duration: .3s
+}
+
+.ide{
+	font-size: 59px;
+	font-family: "ubantu";
+	letter-spacing: -.025em;
+	font-weight: 700;
+	opacity: 95%;
+	/* border: 20px 100% rgb(236, 15, 15) ; */
+	/* line-height: 1.1; */
+	color: white;
 }
 
 .back-to-top:hover {
