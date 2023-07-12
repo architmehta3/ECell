@@ -1036,6 +1036,8 @@ fieldset[disabled] .btn-theme {
 }
 
 .color-white {
+	size: 100px;
+	font-size: 25px;
 	color: #fff !important
 }
 
