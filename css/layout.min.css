@@ -996,6 +996,7 @@ fieldset[disabled] .btn-theme {
 	transform: translate3d(0, -50%, 0)
 }
 .carousel-title2 {
+	text-align-last: right;
 	font-size: 59px;
 	font-family: "Ubuntu", Helvetica, Arial, sans-serif;
 	letter-spacing: -.025em;
