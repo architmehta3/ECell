@@ -125,7 +125,7 @@ a:hover {
 .link:after {
 	position: absolute;
 	right: -15px;
-	color: #ff0000;
+	color: #ff784f;
 }
 
 span {
@@ -269,6 +269,7 @@ h4 {
 .btn-theme:hover {
 	transition-duration: .3s;
 	transition-property: all;
+	color:#ff784f;
 	transition-timing-function: cubic-bezier(.7, 1, .7, 1)
 }
 
@@ -298,7 +299,7 @@ fieldset[disabled] .btn-theme {
 .btn-white-bg:focus,
 .btn-white-bg:hover {
 	color: #fff;
-	background: #FD871F;
+	background: #ff784f;
 	border-color: transparent
 }
 
