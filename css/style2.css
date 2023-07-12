@@ -1,11 +1,11 @@
    .mac1{
     color: #ff784f;
-  
+    text-align: center;
   }
 
     .mac2{
      color: #ff784f;
-    
+     text-align: center;
   }
   
   
@@ -50,8 +50,13 @@
     font-size: 16px;
     
   }
-  .new1{
-        
-        color: #000
-  }
+ .munna{
+  color: #000;
+  text-align: center;
+ }
+ .mapew{
+  align-items: center;
+  margin-top: 40px;
+ }
+  
   
