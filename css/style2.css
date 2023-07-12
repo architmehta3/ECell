@@ -1,11 +1,11 @@
-h1 {
+   .mac1{
     color: #ff784f;
   
   }
 
-  h2 {
-    color: #ff784f;
-  
+    .mac2{
+     color: #ff784f;
+    
   }
   
   
@@ -15,19 +15,20 @@ h1 {
     grid-gap: 20px;
     max-width: 600px;
     margin-top: 20px;
-    align-items: center;
+    margin-left: 530px;
+    
   }
   
   .left {
     font-weight: bold;
     text-align: left;
-    text-align: center;
+    
   }
   
   .form-group {
     display: flex;
     flex-direction: column;
-    text-align: center;
+    
   }
   
   input[type="text"],
@@ -36,7 +37,7 @@ h1 {
   textarea {
     padding: 10px;
     font-size: 16px;
-    align-items: center;
+    
     
   }
   
@@ -47,10 +48,10 @@ h1 {
     border: none;
     cursor: pointer;
     font-size: 16px;
-    align-items: center;
+    
   }
   .new1{
-        text-align: center;
+        
         color: #000;
   }
   
