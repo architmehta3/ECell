@@ -1,11 +1,12 @@
    .mac1{
     color: #ff784f;
     text-align: center;
+    margin-top: 50px;
   }
 
     .mac2{
      color: #ff784f;
-     text-align: center;
+     text-align: left;
   }
   
   
@@ -16,6 +17,7 @@
     max-width: 600px;
     margin-top: 20px;
     margin-left: 530px;
+   
     
   }
   
@@ -28,7 +30,7 @@
   .form-group {
     display: flex;
     flex-direction: column;
-    
+    margin-bottom: 10px;
   }
   
   input[type="text"],
@@ -52,11 +54,14 @@
   }
  .munna{
   color: #000;
-  text-align: center;
+  text-align: left;
+  
  }
  .mapew{
   align-items: center;
   margin-top: 40px;
  }
-  
+.mera{
+  margin-left: 200px;
+}
   
